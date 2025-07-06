@@ -1,0 +1,3 @@
+0 car
+1 Motorcycle
+2 Truck
