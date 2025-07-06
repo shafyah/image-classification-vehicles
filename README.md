@@ -30,7 +30,7 @@ It was developed as part of a training task to apply basic AI skills for image c
 - Used **TensorFlow** to run the model in Python
 ---
 
-## ▶️ How to Use
+##  How to Use
 
 The exported model files (`keras_model.h5` and `labels.txt`) were uploaded to Google Colab, where the model was loaded and tested on new images.
 
