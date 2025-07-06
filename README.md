@@ -45,14 +45,14 @@ Python code was used in Google Colab to:
 - Test it on new images
 - Display predictions
 
-📎 Full code notebook: [vehicle_model_test.ipynb](vehicle_model_test.ipynb)
+ Full code notebook: [vehicle_model_test.ipynb](vehicle_model_test.ipynb)
 
 ---
 
 ## Sample Results
 
 ### Model Preview from Teachable Machine  
-![Model Preview](https://github.com/اسم_المستخدم/image-classification-vehicles/blob/main/model-preview.png?raw=true)
+![Model Preview](https://github.com/shafyah/image-classification-vehicles/blob/main/model-preview.png?raw=true)
 
 ### Prediction Example from Google Colab  
-![Prediction](https://github.com/اسم_المستخدم/image-classification-vehicles/blob/main/prediction-example.png?raw=true)
+![Prediction Example](https://github.com/shafyah/image-classification-vehicles/blob/main/prediction-example.png?raw=true)
